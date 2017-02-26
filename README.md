@@ -6,11 +6,11 @@ Versions
 
 Bluetooth Robot - https://github.com/SConaway/RobotContro/
 
-Obstacle Avoiding Robot - github.com/SConaway/ObstacleAvoidingRobot/
+Obstacle Avoiding Robot - https://github.com/SConaway/ObstacleAvoidingRobot/
 
-IR Robot - github.com/SConaway/IRRobot/
+IR Robot - https://github.com/SConaway/IRRobot/
 
-Line Tracking Robot - github.com/SConaway/LTMRobot/
+Line Tracking Robot - https://github.com/SConaway/LTMRobot/
 
 Based on:
 ===
